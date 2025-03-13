@@ -1,0 +1,164 @@
+{
+  "transactions": [
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "eaa86aea-2902-4b4b-9905-32dae04b2bfc",
+      "amount": 4880.0,
+      "mcc_code": 5812,
+      "date": "2025-02-25",
+      "card_type": "debit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "f03dc831-5979-4a11-8534-cca652c918c9",
+      "amount": 4583.82,
+      "mcc_code": 5998,
+      "date": "2025-02-15",
+      "card_type": "credit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "6240ae9f-7de1-4107-ab96-626434694f9e",
+      "amount": 2811.63,
+      "mcc_code": 4111,
+      "date": "2025-02-23",
+      "card_type": "debit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "8b0171e6-d5f5-4c09-ba9d-ff89121816f0",
+      "amount": 4450.91,
+      "mcc_code": 5998,
+      "date": "2025-03-12",
+      "card_type": "credit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "19eb3023-2374-4570-93f5-e956305049cf",
+      "amount": 4696.49,
+      "mcc_code": 5960,
+      "date": "2025-03-10",
+      "card_type": "debit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "1b8bd94b-bd97-49de-a307-af2e986749ae",
+      "amount": 4042.79,
+      "mcc_code": 5960,
+      "date": "2025-03-08",
+      "card_type": "credit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "6f93d48f-82a4-4c14-9325-3fbce3a0224f",
+      "amount": 933.21,
+      "mcc_code": 5960,
+      "date": "2025-03-03",
+      "card_type": "debit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "6a9cd20b-0b08-48f8-a2d9-8d00937681c1",
+      "amount": 2370.91,
+      "mcc_code": 5411,
+      "date": "2025-02-21",
+      "card_type": "debit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "f4b6825d-8506-455a-896a-7e5d6b36c280",
+      "amount": 1224.23,
+      "mcc_code": 5542,
+      "date": "2025-02-25",
+      "card_type": "debit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "0c4ea943-b2d5-437a-b5cc-9772265e08a9",
+      "amount": 2035.8,
+      "mcc_code": 5411,
+      "date": "2025-02-15",
+      "card_type": "debit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "d4c10152-bd6a-44f8-a9d3-f2c654177811",
+      "amount": 3620.22,
+      "mcc_code": 5411,
+      "date": "2025-02-15",
+      "card_type": "credit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "c059dfa6-c2eb-458f-9304-403eb0470bbc",
+      "amount": 3900.54,
+      "mcc_code": 5812,
+      "date": "2025-02-28",
+      "card_type": "credit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "170cde98-4740-42fb-96b6-3445b37d8fe5",
+      "amount": 2243.3,
+      "mcc_code": 4111,
+      "date": "2025-03-10",
+      "card_type": "debit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "da4bd461-5054-4bc8-9979-68a7b02e9abe",
+      "amount": 2851.73,
+      "mcc_code": 5998,
+      "date": "2025-02-17",
+      "card_type": "credit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "7850a500-a306-493c-88c3-d39a08ec0136",
+      "amount": 2477.17,
+      "mcc_code": 5812,
+      "date": "2025-03-09",
+      "card_type": "credit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "7263bba4-30b6-47ee-b9cd-fe20e56e5a0a",
+      "amount": 3304.97,
+      "mcc_code": 4111,
+      "date": "2025-03-05",
+      "card_type": "debit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "0ba4c518-773d-480d-a4e1-65f2c2a3f22e",
+      "amount": 1303.23,
+      "mcc_code": 4111,
+      "date": "2025-02-20",
+      "card_type": "debit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "1685de8c-7d69-4e77-b3dc-2b555f3b6573",
+      "amount": 3639.87,
+      "mcc_code": 5998,
+      "date": "2025-02-15",
+      "card_type": "debit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "11693c06-0d8c-49c8-a179-2a3cd2a3186d",
+      "amount": 3337.48,
+      "mcc_code": 5998,
+      "date": "2025-02-11",
+      "card_type": "credit"
+    },
+    {
+      "client_id": "be77b830-12da-4361-86ee-bb1bc5b60b4f",
+      "transaction_id": "c642ff18-1688-4900-af59-7c170460c967",
+      "amount": 4697.93,
+      "mcc_code": 5960,
+      "date": "2025-03-04",
+      "card_type": "credit"
+    }
+  ]
+}
